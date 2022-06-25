@@ -4,6 +4,8 @@
 <h5>I live in Brazil, Ceará🤓</h5>
 <h5>I focus on Application Development📱<h5/>
 <h5>I love Front-end Development too</h5>
+  
+<h1>Connect with me:</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marianodesousa/" target="_blank">
