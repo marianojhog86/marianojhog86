@@ -5,7 +5,7 @@
 <h5>I focus on Application Development📱<h5/>
 <h5>I love Front-end Development too</h5>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/marianodesousa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
   </a>
