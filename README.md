@@ -1,4 +1,4 @@
-Hi, I'm Mariano and I'm focused on being a fullstack developer👨‍💻
+<h1>Hi, I'm Mariano and I'm focused on being a fullstack developer👨‍💻</h1>
 
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MarianoMacielD2)
@@ -7,12 +7,4 @@ Hi, I'm Mariano and I'm focused on being a fullstack developer👨‍💻
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mariano.sousa86)
 
 
-
-
-
-
-
-
-
-<img href="https://raw.githubusercontent.com/mar/mar/blob/output/snake.svg" alt="Snake animation" />
 
