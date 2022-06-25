@@ -16,5 +16,3 @@ Hi, I'm Mariano and I'm focused on being a fullstack developer👨‍💻
 
 <img href="https://raw.githubusercontent.com/mar/mar/blob/output/snake.svg" alt="Snake animation" />
 
-###
-
