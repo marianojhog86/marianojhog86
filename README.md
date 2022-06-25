@@ -2,6 +2,9 @@
 <h2>I'm ease to learn, I'm very studious and I'm very curious to be always discovering nem ways to solve problems, always focusing on teamwork.</h2>
 
 <h5>I live in Brazil, Ceará🤓</h5>
+<h5>I focus on Application Development📱<h5/>
+<h5>I love Front-end Development too</h5>
+
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MarianoMacielD2)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marianodesousa/)
