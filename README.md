@@ -5,7 +5,7 @@
 <h5>I focus on Application Development📱<h5/>
 <h5>I love Front-end Development too🚀</h5>
   
-<h1>Connect with me:</h1>
+<h2>Connect with me:</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/marianodesousa/" target="_blank">
@@ -21,7 +21,7 @@
 </div>
 
 ###
- <h1>Programming languages that i have experience with:</h1>
+ <h2>Programming languages that i have experience with:</h2>
   
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
