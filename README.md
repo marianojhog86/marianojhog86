@@ -45,6 +45,9 @@
 </div>
 
 ###
+ <img href="https://raw.githubusercontent.com/marianojhog86/marianojhog86/blob/output/snake.svg" alt="Snake animation" />
+
+###
  
   
  
